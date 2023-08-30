@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hello, I'm Rafay Khan! 👋
 
-<!--
-**rafaymk02/rafaymk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 📚
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a Bachelor of Science in Computer Science with a Software Engineering Concentration from the University of Illinois Chicago. (Expected Graduation: May 2024)
+- 📝 GPA: 3.56 / 4.00
+- 🌱 I am skilled in **Java**, **C**, **MATLAB**, and **Octave**
+- 🌐 I am comfortable working with **Windows**, **UNIX**, and **Linux**
+- 🕵️‍♂️ Currently seeking internship opportunities in Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Competencies 🛠️
+
+**Programming Languages**: 
+- Java
+- C
+- MATLAB
+- Octave
+
+**Operating Systems**: 
+- Windows
+- UNIX
+- Linux
+
+**Other Skills**: 
+- Microsoft Office
+- Adobe Photoshop
+- Autodesk Inventor
+- Filmora
+
+**Languages**: 
+- English
+- Hindi
+- Urdu
+
+## Contact 📧
+
+- Cell: (224)-201-1296
+- Email: [rafaymk02@gmail.com](mailto:rafaymk02@gmail.com)
+- LinkedIn: [rafaykhan02](https://www.linkedin.com/in/rafaykhan02/)
+- Location: Des Plaines, IL
+
+## Let's Connect! 🌐
+
+Feel free to reach out if you're looking for a collaborator, need some help, or if you want to say hi!
+
