@@ -3,8 +3,8 @@
 ## About Me 📚
 
 - 🎓 Currently pursuing a Bachelor of Science in Computer Science from the University of Illinois Chicago. (Expected Graduation: May 2024)
-- 📝 GPA: 3.54 / 4.00
-- 🌱 I am skilled in **Java**, **C/C++**, **MATLAB**, and **Octave**
+- 📝 GPA: 3.52 / 4.00
+- 🌱 I am skilled in **Java**, **C/C++**, **C#**. **F#**, **Python**, **SQL** **MATLAB**, and **Octave**
 - 🌐 I am comfortable working with **Windows**, **UNIX**, and **Linux**
 - 🕵️‍♂️ Currently seeking internship opportunities in Software Engineering
 
@@ -13,6 +13,10 @@
 **Programming Languages**: 
 - Java
 - C/C++
+- F#
+- C#
+- Python
+- SQL
 - MATLAB
 - Octave
 
@@ -23,6 +27,8 @@
 
 **Other Skills**: 
 - Microsoft Office
+- Visual Studio Code
+- IntelliJ IDEA
 - Adobe Photoshop
 - Autodesk Inventor
 - Filmora
