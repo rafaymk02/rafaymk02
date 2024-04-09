@@ -3,7 +3,7 @@
 ## About Me 📚
 
 - 🎓 Currently pursuing a Bachelor of Science in Computer Science from the University of Illinois Chicago. (Expected Graduation: May 2024)
-- 📝 GPA: 3.52 / 4.00
+- 📝 GPA: 3.40 / 4.00
 - 🌱 I am skilled in **Java**, **C/C++**, **C#**. **F#**, **Python**, **SQL**, **MATLAB**, and **Octave**
 - 🌐 I am comfortable working with **Windows**, **UNIX**, and **Linux**
 - 🕵️‍♂️ Currently seeking internship opportunities in Software Engineering
